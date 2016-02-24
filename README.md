@@ -21,7 +21,9 @@ A -> U
 Setup Instruction
 ------------------
 Install nodeJS from here(if not present in your machine) - https://nodejs.org/en/
+
 Install jasmine-node using npm :-
+
 $npm install -g jasmine-node
 
 Making the Test Suite Pass
@@ -30,6 +32,7 @@ Execute the tests with:
 
 1
 $ jasmine-node .
+
 In many test suites all but the first test have been skipped.
 
 Once you get a test passing, you can unskip the next one by changing xit to it.!
