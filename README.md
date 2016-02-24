@@ -26,11 +26,12 @@ Install jasmine-node using npm :-
 
 $npm install -g jasmine-node
 
+Create a new branch with your name and commit your <solution js> file and push your branch.
+
 Making the Test Suite Pass
 ----------------------------
 Execute the tests with:
 
-1
 $ jasmine-node .
 
 In many test suites all but the first test have been skipped.
